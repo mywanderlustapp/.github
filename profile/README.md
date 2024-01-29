@@ -2,7 +2,7 @@
 
 [website](https://mywanderlust.app/) • [linkedin](https://linkedin.com/company/mywanderlustapp) • [linkedin](https://linkedin.com/company/mywanderlustapp) 
 
-revolutionising travel with ai with
+revolutionising travel with
 - Personalized Recommendations
 - Interactive Exploration Map
 - Local Hidden Gems Discovery
