@@ -1,6 +1,6 @@
 ## wanderlust ✈️
 
-[website](https://mywanderlust.app/) • [linkedin](https://linkedin.com/company/mywanderlustapp) • [linkedin](https://linkedin.com/company/mywanderlustapp) 
+[website](https://mywanderlust.app/) • [linkedin](https://linkedin.com/company/mywanderlustapp)
 
 revolutionising travel with
 - Personalized Recommendations
